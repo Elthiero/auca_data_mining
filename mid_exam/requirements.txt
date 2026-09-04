@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+duckdb
+matplotlib
+seaborn
+plotly
+yfinance
+xlrd
+Jinja2
