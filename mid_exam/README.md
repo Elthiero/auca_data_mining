@@ -14,6 +14,8 @@ This project analyses retail food commodity prices across Rwanda (2020–2026), 
 
 The data was deliberately chosen to be **real, freely accessible, and regionally relevant** (East Africa), avoiding sources requiring lengthy access approval (e.g. DHS microdata), so that data collection would not put the project timeline at risk.
 
+Some data are missing from `data/` due to files sizes. But you can still get them from the sources.
+
 ## 2. Objectives
 
 | Task | Target | Type |
